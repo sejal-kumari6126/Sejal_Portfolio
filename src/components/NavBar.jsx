@@ -4,9 +4,6 @@ const Navbar = () => {
       <a href="#home" className="logo">
         SK.
       </a>
-
-
-
       <div className="nav-links">
         <a href="#about">About</a>
         <a href="#experience">Experience</a>
@@ -15,10 +12,9 @@ const Navbar = () => {
         <a href="#achievements">Achievements</a>
         <a href="#contact">Contact</a>
       </div>
-
       <a href="#contact" className="nav-contact">
         Let's Talk ↗
-        
+
       </a>
     </nav>
   );
