@@ -5,6 +5,8 @@ const Navbar = () => {
         SK.
       </a>
 
+
+
       <div className="nav-links">
         <a href="#about">About</a>
         <a href="#experience">Experience</a>
@@ -16,6 +18,7 @@ const Navbar = () => {
 
       <a href="#contact" className="nav-contact">
         Let's Talk ↗
+        
       </a>
     </nav>
   );
